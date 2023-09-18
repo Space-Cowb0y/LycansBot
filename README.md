@@ -21,7 +21,7 @@ The bot was designed to fit the Guild Wars 2 content group format, but can easil
 
 - git clone https://github.com/Space-Cowb0y/LycansBot.git
 - cd LycansBot
-- echo "token=*<YOUR_TOKEN_DO_BOT_AQUI>*" >> ./.env
+- echo "token=*<YOUR_BOT_TOKEN_HERE>*" >> ./.env
 - cd src
 - python main.py
 
