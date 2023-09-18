@@ -1,10 +1,12 @@
-## PT-BR
+## O que é?
+
+### PT-BR
 
 Bot de Discord para criação e organização de eventos MMO. [Ele faz outras coisas também]
 
 O bot foi projetado para atender o formato de grupo dos conteudos de Guild Wars 2, mas pode ser facilmente modificado para qualquer outro jogo.
 
-## EN
+### EN
 Discord bot for creating and organizing MMO events. [He does other things too]
 
 The bot was designed to fit the Guild Wars 2 content group format, but can easily be modified for any other game.
