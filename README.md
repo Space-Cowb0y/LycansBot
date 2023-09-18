@@ -21,4 +21,4 @@ Esse codigo veio com ajuda de outros repositórios:
 
 Entre outro que talvez eu tenho esquecido, logo se voê acho um código seu aqui e quer os credito me manda um salve.
 
-![Sobre esse código.](https://imgflip.com/i/7zlg5i)
+![Sobre esse código.]([https://imgflip.com/i/7zlg5i](https://i.imgflip.com/7zlg5i.jpg)https://i.imgflip.com/7zlg5i.jpg)
