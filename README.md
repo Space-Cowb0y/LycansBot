@@ -1,5 +1,3 @@
-## O que é?
-
 ### PT-BR
 
 Bot de Discord para criação e organização de eventos MMO. [Ele faz outras coisas também]
