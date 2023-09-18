@@ -27,15 +27,20 @@ The bot was designed to fit the Guild Wars 2 content group format, but can easil
 
 ## Disclaimer
 
-Esse codigo veio com ajuda de outros repositórios:
+Esse codigo surgiu com ajuda de outros repositórios:
+Entre outro que talvez eu tenho esquecido, logo se voê acho um código seu aqui e quer os credito me manda um salve.
+
+This code was made using other repos:
+Among others that I may have forgotten, so if you find your code here and want credits, send me a shout.
+
 - https://github.com/cjaak/raid-bot
 - https://github.com/Rapptz/discord.py/tree/v2.3.2
 - https://github.com/richardschwabe/discord-bot-2022-course/tree/main
 - https://github.com/kkrypt0nn/Python-Discord-Bot-Template
 - https://github.com/richardschwabe/discord-bot-2022-course/tree/main
 
-Entre outro que talvez eu tenho esquecido, logo se voê acho um código seu aqui e quer os credito me manda um salve.
 
-Among others that I may have forgotten, so if you find your code here and want credits, send me a shout.
 
+
+#### se você está aqui:
 <a href="https://imgflip.com/i/7zlg5i"><img src="https://i.imgflip.com/7zlg5i.jpg" title="made at imgflip.com"/></a><div>
