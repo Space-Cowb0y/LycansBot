@@ -1,4 +1,4 @@
-Bot para criação e organização de eventos MMO. [Ele faz outras coisas também]
+Bot de Discord para criação e organização de eventos MMO. [Ele faz outras coisas também]
 
 O bot foi projetado para atender o formato de grupo dos conteudos de Guild Wars 2, mas pode ser facilmente modificado para qualquer outro jogo.
 
