@@ -1,0 +1,15 @@
+# Required files
+.env
+config.json
+
+# Created by bot
+bot.log
+
+# Python
+venv
+__pycache__
+
+# Misc
+.vscode
+.idea
+tester.py
